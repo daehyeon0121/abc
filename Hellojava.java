@@ -7,6 +7,8 @@ public class Hellojava {
 		int b = 3;
 		
 		add3(a,b);
+
+//주석 추가함
 		
 		
 	 }
